@@ -1,0 +1,11 @@
+C:\Users\2022102020003\source\repos\3-BimAtividade\3-BimAtividade\bin\Debug\3-BimAtividade.exe.config
+C:\Users\2022102020003\source\repos\3-BimAtividade\3-BimAtividade\bin\Debug\3-BimAtividade.exe
+C:\Users\2022102020003\source\repos\3-BimAtividade\3-BimAtividade\bin\Debug\3-BimAtividade.pdb
+C:\Users\2022102020003\source\repos\3-BimAtividade\3-BimAtividade\obj\Debug\3-BimAtividade.csproj.AssemblyReference.cache
+C:\Users\2022102020003\source\repos\3-BimAtividade\3-BimAtividade\obj\Debug\3-BimAtividade.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020003\source\repos\3-BimAtividade\3-BimAtividade\obj\Debug\_3_BimAtividade.Form1.resources
+C:\Users\2022102020003\source\repos\3-BimAtividade\3-BimAtividade\obj\Debug\_3_BimAtividade.Properties.Resources.resources
+C:\Users\2022102020003\source\repos\3-BimAtividade\3-BimAtividade\obj\Debug\3-BimAtividade.csproj.GenerateResource.cache
+C:\Users\2022102020003\source\repos\3-BimAtividade\3-BimAtividade\obj\Debug\3-BimAtividade.csproj.CoreCompileInputs.cache
+C:\Users\2022102020003\source\repos\3-BimAtividade\3-BimAtividade\obj\Debug\3-BimAtividade.exe
+C:\Users\2022102020003\source\repos\3-BimAtividade\3-BimAtividade\obj\Debug\3-BimAtividade.pdb
