@@ -74,11 +74,8 @@ namespace _3_BimAtividade
 
         private void button2_Click(object sender, EventArgs e)
         {
-            codigo_txt.Clear();
-            descricao_txt.Clear();
-            vendafim_txt.Clear();
-            compra_txt.Clear();
-            venda_txt.Clear();
+
+            int index = dataGridView1.CurrentCell.RowIndex;
 
         }
 
@@ -89,6 +86,11 @@ namespace _3_BimAtividade
 
         private void button3_Click(object sender, EventArgs e)
         {
+            codigo_txt.Clear();
+            descricao_txt.Clear();
+            vendafim_txt.Clear();
+            compra_txt.Clear();
+            venda_txt.Clear();
         }
     }
 }
